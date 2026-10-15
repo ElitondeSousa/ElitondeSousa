@@ -38,7 +38,7 @@ Aplicação pensada para o celular que permite acompanhar os capítulos das obra
   - **Local-first com sincronização na nuvem** (**Supabase**): os dados ficam primeiro no aparelho e sincronizam entre dispositivos, com resolução de conflitos pela edição mais recente
   - **Galeria de quadros favoritos**, com imagens salvas no aparelho e em armazenamento privado na nuvem
   - **13 temas de personagens** (Demon Slayer e Jujutsu Kaisen) com **modo claro/escuro** e **mascotes** que também mudam o ícone do app
- -  **Filtro de conteúdo adulto** opcional, com capas borradas configuráveis
+  - **Filtro de conteúdo adulto** opcional, com capas borradas configuráveis
   - **Backup em arquivo** (exportar/importar) para nunca perder a lista
   - **Segurança:** Content Security Policy, cabeçalhos HTTP de proteção, validação de dados importados e **Row Level Security** no banco (cada usuário só acessa os próprios dados)
   - **Acessibilidade:** tamanho do texto ajustável, opção de reduzir animações, `prefers-reduced-motion` e WAI-ARIA
