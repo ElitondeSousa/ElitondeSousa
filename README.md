@@ -55,5 +55,5 @@ Aplicação pensada para o celular que permite acompanhar os capítulos das obra
 
 ## 📫 Contato
 
-- LinkedIn: [Eliton de Sousa](https://www.linkedin.com/in/eliton-de-sousa-pereira-3a1863355)
+- LinkedIn: [Eliton de Sousa](https://www.linkedin.com/in/elitondesousa/?isSelfProfile=true)
 - E-mail: eliton.sousaofc@gmail.com
