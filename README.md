@@ -25,7 +25,7 @@ Site institucional desenvolvido para o Frigorífico Providência LTDA, empresa d
 <img width="100%" alt="Página inicial do site do Frigorífico Providência" src="https://github.com/user-attachments/assets/52972b3c-239a-4957-82de-c2b46a37a02a" />
 
 
-### Mangalog — App para acompanhar mangás, manhwas e animes.
+### Mangalog — App para acompanhar mangás, manhwas e animes
 Aplicação pensada para o celular que permite acompanhar os capítulos das obras que você lê e os episódios dos animes que assiste, além de uma galeria para guardar seus quadros favoritos.
 
 - 🔗 **No ar:** [mangalog-five.vercel.app](https://mangalog-five.vercel.app)
@@ -55,5 +55,5 @@ Aplicação pensada para o celular que permite acompanhar os capítulos das obra
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/eliton-de-sousa-pereira-3a1863355
+- LinkedIn: [Eliton de Sousa](https://www.linkedin.com/in/eliton-de-sousa-pereira-3a1863355)
 - E-mail: eliton.sousaofc@gmail.com
