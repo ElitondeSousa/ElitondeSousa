@@ -3,7 +3,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Serra do Carmo - Fasec, buscando estágio em back-end ou full-stack.
 Gosto de transformar problemas reais em sistemas simples de usar e já tenho projetos rodando em produção.
 
-🚀 Projetos em produção
+## 🚀 Projetos em produção
 
 ### Frigorífico Providência — Site institucional
 Site institucional desenvolvido para o Frigorífico Providência LTDA, empresa do setor de carnes em Miracema do Tocantins - TO.
