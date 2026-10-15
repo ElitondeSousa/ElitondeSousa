@@ -22,7 +22,6 @@ Site institucional desenvolvido para o Frigorífico Providência LTDA, empresa d
   - **Acessibilidade** (WAI-ARIA, navegação por teclado, `prefers-reduced-motion`) e **SEO** (Open Graph + JSON-LD)
   - Boa performance: imagens em **WebP**, carregamento sob demanda (lazy load), CSS e JS minificados
 
-![Print do site do frigorífico]
 <img width="100%" alt="Página inicial do site do Frigorífico Providência" src="https://github.com/user-attachments/assets/52972b3c-239a-4957-82de-c2b46a37a02a" />
 
 
@@ -45,7 +44,6 @@ Aplicação pensada para o celular que permite acompanhar os capítulos das obra
   - **Acessibilidade:** tamanho do texto ajustável, opção de reduzir animações, `prefers-reduced-motion` e WAI-ARIA
   - **Interface mobile-first** com animações (**Motion**), navegação flutuante e carrossel de destaques
 
-![Print do tracker]
 <img width="100%" alt="Tela do app Mangalog" src="https://github.com/user-attachments/assets/f7b9b42f-50fc-4f41-8816-0d5f5510ee56" />
 
 
